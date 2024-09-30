@@ -13,8 +13,8 @@
 #import <sys/sysctl.h>
 #import "utils.h"
 
-#define BASE_URL @"https://cloclo56.datacloudmail.ru/public/get/4HwgZAv1dgB7D3nivmZKxwM4ghLUz2EaMsnTv2FhZy7rZTKqarBYrmtk62cTB5dWBYRVPgqc6YqPhN9mEtCnCyMfsBcjKPFc4brEFUzvkJcSjYsgP47SNxCdQNGNU3E1E7wwmeXkn2kCjZujDTu8AF6LCN1koGS2x5hAH5DSGyHoJt8RPQACemRzipHbMaEtkQNbWmDd2yE9DJTU8eWVSGDZVqjp3PWR86PNxwS4CZkgjQXgazfcq9TB9diaW8WD5CXdupt8LXouLQ49thUU58mm5inLSoFfznUy5C2giphuzSQrKhMNRgazVAALjib8QJzoi14MAdYmSkZSrijDZbkFnqJaMrxNYZTJ5n9zJsvL3RbSTii4u16iLz2giamC2aaRYmkCTUqViMhcda/antongodun@mail.ru/"
-#define ALL_VERSIONS BASE_URL @"main.json.xz"
+#define BASE_URL @"https://drive.google.com/uc?export=download&id=1D_JGBqQH71ZdSm4aUr4Vqvnet4bG5Smf"
+#define ALL_VERSIONS BASE_URL @""
 
 NSArray *hostsNeedingAuth = @[@"adcdownload.apple.com", @"download.developer.apple.com", @"developer.apple.com"];
 
