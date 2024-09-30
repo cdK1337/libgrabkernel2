@@ -13,8 +13,8 @@
 #import <sys/sysctl.h>
 #import "utils.h"
 
-#define BASE_URL @"https://drive.google.com/uc?export=download&id=1D_JGBqQH71ZdSm4aUr4Vqvnet4bG5Smf"
-#define ALL_VERSIONS BASE_URL @""
+#define ALL_VERSIONS @"https://drive.google.com/uc?export=download&id=1D_JGBqQH71ZdSm4aUr4Vqvnet4bG5Smf"
+
 
 NSArray *hostsNeedingAuth = @[@"adcdownload.apple.com", @"download.developer.apple.com", @"developer.apple.com"];
 
